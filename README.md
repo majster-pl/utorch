@@ -9,12 +9,11 @@ __Simple torch application for__ __[Ubuntu Touch](https://ubuntu-touch.io/)__ (m
 ---
 
 ### Pictures:
-<img src="app_screenshots/1.png" alt="alt text" width="100" height="300">
-![](app_screenshots/1.png | =250)
-![](app_screenshots/2.png)
-![](app_screenshots/3.png)
-![](app_screenshots/4.png)
-![](app_screenshots/5.png)
-![](app_screenshots/6.png)
-![](app_screenshots/7.png)
-![](app_screenshots/8.png)
+<img src="app_screenshots/1.png" alt="alt text" width="150" height="300">
+<img src="app_screenshots/2.png" alt="alt text" width="150" height="300">
+<img src="app_screenshots/3.png" alt="alt text" width="150" height="300">
+<img src="app_screenshots/4.png" alt="alt text" width="150" height="300">
+<img src="app_screenshots/5.png" alt="alt text" width="150" height="300">
+<img src="app_screenshots/6.png" alt="alt text" width="150" height="300">
+<img src="app_screenshots/7.png" alt="alt text" width="150" height="300">
+<img src="app_screenshots/8.png" alt="alt text" width="150" height="300">

@@ -8,8 +8,8 @@ __Simple torch application for__ __[Ubuntu Touch](https://ubuntu-touch.io/)__ (m
 
 ---
 
-### Application pictures:
-__Few pictures of application in action
+### Pictures:
+__Few pictures of application in action__
 
 <p align="center">
 <img src="app_screenshots/1.png" alt="alt text" width="180" height="300">

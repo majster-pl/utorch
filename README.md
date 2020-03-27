@@ -10,7 +10,7 @@ __Simple torch application for__ __[Ubuntu Touch](https://ubuntu-touch.io/)__ (m
 
 ### Pictures:
 
-![](app_screenshots/1.png | =250x)
+![](app_screenshots/1.png | =250)
 ![](app_screenshots/2.png)
 ![](app_screenshots/3.png)
 ![](app_screenshots/4.png)

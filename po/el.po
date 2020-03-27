@@ -1,0 +1,217 @@
+# Greek translation for utorch
+# Copyright (c) 2016 Rosetta Contributors and Canonical Ltd 2016
+# This file is distributed under the same license as the utorch package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: utorch\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2016-01-27 23:42+0000\n"
+"PO-Revision-Date: 2016-01-24 20:49+0000\n"
+"Last-Translator: Aggelos Arnaoutis <angelosarn@hotmail.com>\n"
+"Language-Team: Greek <el@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2016-02-28 22:44+0000\n"
+"X-Generator: Launchpad (build 17925)\n"
+
+#: UI/MainPage.qml:37
+msgid "Close"
+msgstr ""
+
+#: UI/MainPage.qml:45 UI/MainPage.qml:50
+msgid "More"
+msgstr "Περισσότερα"
+
+#: UI/SettingsPage.qml:29 UI/AboutPage.qml:34
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: UI/SettingsPage.qml:68
+msgid "Start app with torch on"
+msgstr ""
+
+#: UI/WarningComponent.qml:33
+msgid "Warning!"
+msgstr "Προειδοποίηση!"
+
+#: UI/WarningComponent.qml:39
+msgid ""
+"Using this option might couse Camera and other aplications <b>NOT</b> to "
+"work as expected or at all!<br><br><b>You are using this on your own "
+"risk!</b>"
+msgstr ""
+"Χρησιμοποιώντας αυτή την επιλογή μπορεί να προκαλέσει στην κάμερα και σε "
+"άλλες εφαρμογές να <b>μη</b> λειτουργήσουν όπως αναμένεται ή "
+"καθόλου!<br><br><b>Την χρησιμοποιείτε με δικό σας ρίσκο!</b>"
+
+#: UI/WarningComponent.qml:58
+msgid "<b>OK</b>"
+msgstr "<b>Εντάξει</b>"
+
+#: UI/WarningComponent.qml:65
+msgid "<b>No thanks!</b>"
+msgstr "<b>Όχι ευχαριστώ!</b>"
+
+#: UI/DonatePopoverComponent.qml:33
+msgid "Hi Dude!"
+msgstr "Γεια φίλε!"
+
+#: UI/DonatePopoverComponent.qml:45
+msgid "I hope you enjoy my app and it works for you, so why not"
+msgstr ""
+
+#: UI/DonatePopoverComponent.qml:55
+msgid "Rate this app!"
+msgstr "Βαθμολογήστε αυτήν την εφαρμογή!"
+
+#: UI/DonatePopoverComponent.qml:70
+msgid ""
+"I'm always looking for new ways to improve this app, so if you have "
+"interesting ideas and want to share them with me just click below."
+msgstr ""
+"Ψάχνω για νέους τρόπους να βελτιώσω την εφαρμογή, άρα αν έχετε ενδιαφέροντες "
+"ιδέες και θέλετε να την μοιραστείτε με εμένα απλά κάντε κλικ παρακάτω."
+
+#: UI/DonatePopoverComponent.qml:80
+msgid "Contact me!"
+msgstr "Επικοινωνήστε μαζί μου!"
+
+#: UI/DonatePopoverComponent.qml:93
+msgid ""
+"If you think this app deserved your dontation just click on button bellow."
+msgstr ""
+"Εάν πιστεύετε πως η εφαρμογή αξίζει την δωρεά σας απλά κάντε κλικ παρακάτω."
+
+#: UI/DonatePopoverComponent.qml:104
+msgid "Donate!"
+msgstr ""
+
+#: UI/DonatePopoverComponent.qml:121
+msgid "<b>Sorry to hear</b>"
+msgstr "<b>Λυπάμαι που το ακούω</b>"
+
+#: UI/DonatePopoverComponent.qml:121
+msgid "Ask me later"
+msgstr "Ερώτηση αργότερα"
+
+#: UI/DonatePopoverComponent.qml:147
+msgid "Don't show this message again."
+msgstr "Να μην εμφανιστεί ξανά αυτό το μήνυμα."
+
+#: UI/UpdatePopupComponent.qml:35
+msgid "What's new?"
+msgstr ""
+
+#: UI/UpdatePopupComponent.qml:114
+msgid "Go to app"
+msgstr ""
+
+#: UI/AboutPage.qml:40
+msgid "About"
+msgstr "Περί"
+
+#: UI/AboutPage.qml:41
+msgid "Credits"
+msgstr "Μνεία"
+
+#: UI/AboutPage.qml:42
+msgid "F.A.Q"
+msgstr "Συχνές Ερωτήσεις"
+
+#: UI/AboutPage.qml:56
+msgid "Author"
+msgstr "Δημιουργός"
+
+#: UI/AboutPage.qml:57
+msgid "Developers"
+msgstr "Προγραμματιστές"
+
+#: UI/AboutPage.qml:58
+msgid "Designer"
+msgstr "Σχεδιαστής"
+
+#: UI/AboutPage.qml:68
+msgid "What devices are supported?"
+msgstr "Ποιες συσκευές υποστηρίζονται;"
+
+#: UI/AboutPage.qml:68
+msgid ""
+"At the moment we support the following devices:<br> ✔BQ Aquaris e4.5<br> ✔BQ "
+"Aquaris 5<br> ✔Meizu MX4<br> ✔Nexus 4"
+msgstr ""
+
+#: UI/AboutPage.qml:69
+msgid "I blocked uTorch from using Camera.Service.<br>How do I fix it?"
+msgstr ""
+
+#: UI/AboutPage.qml:69
+msgid ""
+"Open System Settings <b>></b> Security and Privacy <b>></b> App Permissions "
+"<b>></b> Camera<br> and then make sure uTorch is <b>ticked</b> there."
+msgstr ""
+"Άνοιγμα Ρυθμίσεις συστήματος <b>></b> Ασφάλεια και ιδιωτικότητα  <b>></b> "
+"Δικαιώματα εφαρμογών <b>></b> Κάμερα<br> και μετά βεβαιωθείτε πως η uTorch "
+"είναι <b>επιλεγμένη</b> εκεί."
+
+#: UI/AboutPage.qml:69
+#, qt-format
+msgid "%1 Open System Settings %2"
+msgstr "%1 Άνοιγμα Ρυθμίσεων συστήματος %2"
+
+#: UI/AboutPage.qml:113
+msgid "Torch application for Ubuntu Touch"
+msgstr "Εφαρμογή φακού για το Ubuntu Touch"
+
+#: UI/AboutPage.qml:123
+msgid "Changelog"
+msgstr ""
+
+#: UI/AboutPage.qml:143
+msgid "Released under the terms of GNU GPL v3 or higher"
+msgstr "Εκδίδεται σύμφωνα με τους όρους της GPL v3 GNU ή πιο πάνω"
+
+#: UI/AboutPage.qml:153
+#, qt-format
+msgid "Source code available on %1"
+msgstr "Ο πηγαίος κώδικας είναι διαθέσιμος στο %1"
+
+#: UI/AboutPage.qml:165
+#, qt-format
+msgid "Homepage: %1"
+msgstr "Αρχική σελίδα:%1"
+
+#: UI/AboutPage.qml:186
+#, qt-format
+msgid "Count: %1"
+msgstr ""
+
+#: UI/FirstRunPopupComponent.qml:34
+msgid "Important!"
+msgstr "Σημαντικό!"
+
+#: UI/FirstRunPopupComponent.qml:42
+msgid "Please make sure that you <b>allow</b> uTorch to use Camera.Services!"
+msgstr ""
+"Παρακαλώ βεβαιωθείται ότι εσείς <b>επιτρέπετε</b> στην uTorch να "
+"χρησιμοποιεί το Camera.Services!"
+
+#. TRANSLATORS: please make sure you inser html code in right places, thanks!
+#: UI/FirstRunPopupComponent.qml:50
+msgid ""
+"If by mistake you refuse uTorch to use Camera then to change it you have to "
+"go to:<br><br>System Settings <b>></b> Security and Privacy <b>></b> App "
+"Permissions <b>></b> Camera<br>and then make sure uTorch is <b>ticked</b> "
+"there."
+msgstr ""
+"Εάν κατά λάθος αρνηθείτε στην uTorch να χρησιμοποιήσει την κάμερα τότε για "
+"να το αλλάξετε πρέπει να πάτε στο:<br><br>Ρυθμίσεις συστήματος <b>></b> "
+"Ασφάλεια και ιδιωτικότητα  <b>></b> Δικαιώματα εφαρμογών <b>></b> Κάμερα<br> "
+"και μετά βεβαιωθείτε πως η uTorch είναι <b>επιλεγμένη</b> εκεί."
+
+#. TRANSLATORS: Better to leave this OK
+#: UI/FirstRunPopupComponent.qml:63
+msgid "OK"
+msgstr "Εντάξει"

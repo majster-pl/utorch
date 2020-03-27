@@ -1,0 +1,9 @@
+{
+    "policy_groups": [
+        "camera",
+        "keep-display-on",
+        "audio",
+        "networking"
+    ],
+    "policy_version": 1.3
+}

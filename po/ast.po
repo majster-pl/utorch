@@ -1,0 +1,202 @@
+# Asturian translation for utorch
+# Copyright (c) 2016 Rosetta Contributors and Canonical Ltd 2016
+# This file is distributed under the same license as the utorch package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: utorch\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2016-01-27 23:42+0000\n"
+"PO-Revision-Date: 2016-02-05 20:47+0000\n"
+"Last-Translator: costales <Unknown>\n"
+"Language-Team: Asturian <ast@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2016-02-28 22:44+0000\n"
+"X-Generator: Launchpad (build 17925)\n"
+
+#: UI/MainPage.qml:37
+msgid "Close"
+msgstr "Zarrar"
+
+#: UI/MainPage.qml:45 UI/MainPage.qml:50
+msgid "More"
+msgstr "Más"
+
+#: UI/SettingsPage.qml:29 UI/AboutPage.qml:34
+msgid "Settings"
+msgstr "Preferencies"
+
+#: UI/SettingsPage.qml:68
+msgid "Start app with torch on"
+msgstr ""
+
+#: UI/WarningComponent.qml:33
+msgid "Warning!"
+msgstr "¡Atención!"
+
+#: UI/WarningComponent.qml:39
+msgid ""
+"Using this option might couse Camera and other aplications <b>NOT</b> to "
+"work as expected or at all!<br><br><b>You are using this on your own "
+"risk!</b>"
+msgstr ""
+
+#: UI/WarningComponent.qml:58
+msgid "<b>OK</b>"
+msgstr "<b>Aceutar</b>"
+
+#: UI/WarningComponent.qml:65
+msgid "<b>No thanks!</b>"
+msgstr ""
+
+#: UI/DonatePopoverComponent.qml:33
+msgid "Hi Dude!"
+msgstr ""
+
+#: UI/DonatePopoverComponent.qml:45
+msgid "I hope you enjoy my app and it works for you, so why not"
+msgstr ""
+
+#: UI/DonatePopoverComponent.qml:55
+msgid "Rate this app!"
+msgstr ""
+
+#: UI/DonatePopoverComponent.qml:70
+msgid ""
+"I'm always looking for new ways to improve this app, so if you have "
+"interesting ideas and want to share them with me just click below."
+msgstr ""
+
+#: UI/DonatePopoverComponent.qml:80
+msgid "Contact me!"
+msgstr ""
+
+#: UI/DonatePopoverComponent.qml:93
+msgid ""
+"If you think this app deserved your dontation just click on button bellow."
+msgstr ""
+
+#: UI/DonatePopoverComponent.qml:104
+msgid "Donate!"
+msgstr ""
+
+#: UI/DonatePopoverComponent.qml:121
+msgid "<b>Sorry to hear</b>"
+msgstr ""
+
+#: UI/DonatePopoverComponent.qml:121
+msgid "Ask me later"
+msgstr "Entrugar más sero"
+
+#: UI/DonatePopoverComponent.qml:147
+msgid "Don't show this message again."
+msgstr "Nun amosar esti mensaxe de nueves."
+
+#: UI/UpdatePopupComponent.qml:35
+msgid "What's new?"
+msgstr "¿Qué hai nuevo?"
+
+#: UI/UpdatePopupComponent.qml:114
+msgid "Go to app"
+msgstr ""
+
+#: UI/AboutPage.qml:40
+msgid "About"
+msgstr "Tocante a"
+
+#: UI/AboutPage.qml:41
+msgid "Credits"
+msgstr "Créditos"
+
+#: UI/AboutPage.qml:42
+msgid "F.A.Q"
+msgstr ""
+
+#: UI/AboutPage.qml:56
+msgid "Author"
+msgstr "Autor"
+
+#: UI/AboutPage.qml:57
+msgid "Developers"
+msgstr "Desendolcadores"
+
+#: UI/AboutPage.qml:58
+msgid "Designer"
+msgstr "Diseñador"
+
+#: UI/AboutPage.qml:68
+msgid "What devices are supported?"
+msgstr ""
+
+#: UI/AboutPage.qml:68
+msgid ""
+"At the moment we support the following devices:<br> ✔BQ Aquaris e4.5<br> ✔BQ "
+"Aquaris 5<br> ✔Meizu MX4<br> ✔Nexus 4"
+msgstr ""
+
+#: UI/AboutPage.qml:69
+msgid "I blocked uTorch from using Camera.Service.<br>How do I fix it?"
+msgstr ""
+
+#: UI/AboutPage.qml:69
+msgid ""
+"Open System Settings <b>></b> Security and Privacy <b>></b> App Permissions "
+"<b>></b> Camera<br> and then make sure uTorch is <b>ticked</b> there."
+msgstr ""
+
+#: UI/AboutPage.qml:69
+#, qt-format
+msgid "%1 Open System Settings %2"
+msgstr ""
+
+#: UI/AboutPage.qml:113
+msgid "Torch application for Ubuntu Touch"
+msgstr ""
+
+#: UI/AboutPage.qml:123
+msgid "Changelog"
+msgstr "Rexistru de cambios"
+
+#: UI/AboutPage.qml:143
+msgid "Released under the terms of GNU GPL v3 or higher"
+msgstr ""
+
+#: UI/AboutPage.qml:153
+#, qt-format
+msgid "Source code available on %1"
+msgstr ""
+
+#: UI/AboutPage.qml:165
+#, qt-format
+msgid "Homepage: %1"
+msgstr ""
+
+#: UI/AboutPage.qml:186
+#, qt-format
+msgid "Count: %1"
+msgstr ""
+
+#: UI/FirstRunPopupComponent.qml:34
+msgid "Important!"
+msgstr ""
+
+#: UI/FirstRunPopupComponent.qml:42
+msgid "Please make sure that you <b>allow</b> uTorch to use Camera.Services!"
+msgstr ""
+
+#. TRANSLATORS: please make sure you inser html code in right places, thanks!
+#: UI/FirstRunPopupComponent.qml:50
+msgid ""
+"If by mistake you refuse uTorch to use Camera then to change it you have to "
+"go to:<br><br>System Settings <b>></b> Security and Privacy <b>></b> App "
+"Permissions <b>></b> Camera<br>and then make sure uTorch is <b>ticked</b> "
+"there."
+msgstr ""
+
+#. TRANSLATORS: Better to leave this OK
+#: UI/FirstRunPopupComponent.qml:63
+msgid "OK"
+msgstr "Aceutar"

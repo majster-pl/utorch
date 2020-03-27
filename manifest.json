@@ -1,0 +1,15 @@
+{
+    "architecture": "all",
+    "description": "Torch application for Ubuntu Touch",
+    "framework": "ubuntu-sdk-15.04.4",
+    "hooks": {
+        "uTorch": {
+            "apparmor": "uTorch.apparmor",
+            "desktop": "uTorch.desktop"
+        }
+    },
+    "maintainer": "Szymon Waliczek <majsterrr@gmail.com>",
+    "name": "com.ubuntu.developer.majster-pl.utorch",
+    "title": "uTorch",
+    "version": "2.9.0"
+}

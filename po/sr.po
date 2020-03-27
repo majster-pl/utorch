@@ -1,0 +1,220 @@
+# Serbian translation for utorch
+# Copyright (c) 2016 Rosetta Contributors and Canonical Ltd 2016
+# This file is distributed under the same license as the utorch package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: utorch\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2016-01-27 23:42+0000\n"
+"PO-Revision-Date: 2016-02-10 20:53+0000\n"
+"Last-Translator: Bojan Bogdanović <Unknown>\n"
+"Language-Team: Serbian <sr@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2016-02-28 22:44+0000\n"
+"X-Generator: Launchpad (build 17925)\n"
+
+#: UI/MainPage.qml:37
+msgid "Close"
+msgstr "Затвори"
+
+#: UI/MainPage.qml:45 UI/MainPage.qml:50
+msgid "More"
+msgstr "Више"
+
+#: UI/SettingsPage.qml:29 UI/AboutPage.qml:34
+msgid "Settings"
+msgstr "Подешавање"
+
+#: UI/SettingsPage.qml:68
+msgid "Start app with torch on"
+msgstr "Покрени апликацију са укљученом бакљом"
+
+#: UI/WarningComponent.qml:33
+msgid "Warning!"
+msgstr "Упозорење!"
+
+#: UI/WarningComponent.qml:39
+msgid ""
+"Using this option might couse Camera and other aplications <b>NOT</b> to "
+"work as expected or at all!<br><br><b>You are using this on your own "
+"risk!</b>"
+msgstr ""
+"Коришћење ове опције може изазвати да Камера и друге апликације <b>НЕ</b> "
+"раде очекивано или да уопште не раде!<br><br><b>Користите ову опцију на "
+"сопствени ризик!</b>"
+
+#: UI/WarningComponent.qml:58
+msgid "<b>OK</b>"
+msgstr "<b>У реду</b>"
+
+#: UI/WarningComponent.qml:65
+msgid "<b>No thanks!</b>"
+msgstr "<b>Не хвала!</b>"
+
+#: UI/DonatePopoverComponent.qml:33
+msgid "Hi Dude!"
+msgstr "Здраво!"
+
+#: UI/DonatePopoverComponent.qml:45
+msgid "I hope you enjoy my app and it works for you, so why not"
+msgstr ""
+"Надам се да сте уживали у мојој апликацији и да вам је обавила посао, па "
+"зашто не"
+
+#: UI/DonatePopoverComponent.qml:55
+msgid "Rate this app!"
+msgstr "Оцените ову апликацију!"
+
+#: UI/DonatePopoverComponent.qml:70
+msgid ""
+"I'm always looking for new ways to improve this app, so if you have "
+"interesting ideas and want to share them with me just click below."
+msgstr ""
+"Увек тражим нове начине да побољшам ову апликацију, па ако имате "
+"интересантних идеја и желите да их поделите самном, само кликните испод."
+
+#: UI/DonatePopoverComponent.qml:80
+msgid "Contact me!"
+msgstr "Контактирај ме!"
+
+#: UI/DonatePopoverComponent.qml:93
+msgid ""
+"If you think this app deserved your dontation just click on button bellow."
+msgstr ""
+"Ако мислите да ова апликација заслужује прилог само кликните на дугме испод."
+
+#: UI/DonatePopoverComponent.qml:104
+msgid "Donate!"
+msgstr "Приложите!"
+
+#: UI/DonatePopoverComponent.qml:121
+msgid "<b>Sorry to hear</b>"
+msgstr "<b>Жао ми је што то чујем</b>"
+
+#: UI/DonatePopoverComponent.qml:121
+msgid "Ask me later"
+msgstr "Питајте ме касније"
+
+#: UI/DonatePopoverComponent.qml:147
+msgid "Don't show this message again."
+msgstr "Не приказуј ов у поруку поново."
+
+#: UI/UpdatePopupComponent.qml:35
+msgid "What's new?"
+msgstr "Шта има ново?"
+
+#: UI/UpdatePopupComponent.qml:114
+msgid "Go to app"
+msgstr "Иди у апликацију"
+
+#: UI/AboutPage.qml:40
+msgid "About"
+msgstr "О програму"
+
+#: UI/AboutPage.qml:41
+msgid "Credits"
+msgstr "Заслуге"
+
+#: UI/AboutPage.qml:42
+msgid "F.A.Q"
+msgstr "Ч.П.П."
+
+#: UI/AboutPage.qml:56
+msgid "Author"
+msgstr "Аутор"
+
+#: UI/AboutPage.qml:57
+msgid "Developers"
+msgstr "Програмери"
+
+#: UI/AboutPage.qml:58
+msgid "Designer"
+msgstr "Дизајнер"
+
+#: UI/AboutPage.qml:68
+msgid "What devices are supported?"
+msgstr "Који уређаји су подржани?"
+
+#: UI/AboutPage.qml:68
+msgid ""
+"At the moment we support the following devices:<br> ✔BQ Aquaris e4.5<br> ✔BQ "
+"Aquaris 5<br> ✔Meizu MX4<br> ✔Nexus 4"
+msgstr ""
+"Тренутно подржавамо следеће уређаје:<br> ✔BQ Aquaris e4.5<br> ✔BQ Aquaris "
+"5<br> ✔Meizu MX4<br> ✔Nexus 4"
+
+#: UI/AboutPage.qml:69
+msgid "I blocked uTorch from using Camera.Service.<br>How do I fix it?"
+msgstr "Блокирао сам уТорч да не користи сервис Камере.<br>Како то да решим?"
+
+#: UI/AboutPage.qml:69
+msgid ""
+"Open System Settings <b>></b> Security and Privacy <b>></b> App Permissions "
+"<b>></b> Camera<br> and then make sure uTorch is <b>ticked</b> there."
+msgstr ""
+"Отвори Подешавања система <b>></b> Безбедност и приватност <b>></b> Дозволе "
+"апликација <b>></b> Камера<br> и уверите се да је уТорч <b>укључен</b> ту."
+
+#: UI/AboutPage.qml:69
+#, qt-format
+msgid "%1 Open System Settings %2"
+msgstr "%1 Отвори Подешавање система %2"
+
+#: UI/AboutPage.qml:113
+msgid "Torch application for Ubuntu Touch"
+msgstr "Апликација бакље за Ubuntu Touch"
+
+#: UI/AboutPage.qml:123
+msgid "Changelog"
+msgstr "Дневник измена"
+
+#: UI/AboutPage.qml:143
+msgid "Released under the terms of GNU GPL v3 or higher"
+msgstr "Издато под условима ГНУ ОЈЛ в3 или виша"
+
+#: UI/AboutPage.qml:153
+#, qt-format
+msgid "Source code available on %1"
+msgstr "Извори код доступан на %1"
+
+#: UI/AboutPage.qml:165
+#, qt-format
+msgid "Homepage: %1"
+msgstr "Матична страница: %1"
+
+#: UI/AboutPage.qml:186
+#, qt-format
+msgid "Count: %1"
+msgstr "Бројач: %1"
+
+#: UI/FirstRunPopupComponent.qml:34
+msgid "Important!"
+msgstr "Важно!"
+
+#: UI/FirstRunPopupComponent.qml:42
+msgid "Please make sure that you <b>allow</b> uTorch to use Camera.Services!"
+msgstr ""
+"Молимо да се уверите да сте <b>дозволили</b> уТорч-у да користи сервис "
+"Камере!"
+
+#. TRANSLATORS: please make sure you inser html code in right places, thanks!
+#: UI/FirstRunPopupComponent.qml:50
+msgid ""
+"If by mistake you refuse uTorch to use Camera then to change it you have to "
+"go to:<br><br>System Settings <b>></b> Security and Privacy <b>></b> App "
+"Permissions <b>></b> Camera<br>and then make sure uTorch is <b>ticked</b> "
+"there."
+msgstr ""
+"Ако грешком одбијете уТорч да користи Камеру да би изменили то морате отићи "
+"у:<br><br>Подешавање система <b>></b> Сигурност и приватност <b>></b> "
+"Дозволе апликација <b>></b> Камера<br> и уверите се да је уТорч "
+"<b>укључен</b> тамо."
+
+#. TRANSLATORS: Better to leave this OK
+#: UI/FirstRunPopupComponent.qml:63
+msgid "OK"
+msgstr "У реду"

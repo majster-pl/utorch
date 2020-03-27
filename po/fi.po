@@ -1,0 +1,214 @@
+# Finnish translation for utorch
+# Copyright (c) 2016 Rosetta Contributors and Canonical Ltd 2016
+# This file is distributed under the same license as the utorch package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: utorch\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2016-01-27 23:42+0000\n"
+"PO-Revision-Date: 2016-01-28 07:24+0000\n"
+"Last-Translator: Jiri Grönroos <Unknown>\n"
+"Language-Team: Finnish <fi@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2016-02-28 22:44+0000\n"
+"X-Generator: Launchpad (build 17925)\n"
+
+#: UI/MainPage.qml:37
+msgid "Close"
+msgstr "Sulje"
+
+#: UI/MainPage.qml:45 UI/MainPage.qml:50
+msgid "More"
+msgstr "Lisää"
+
+#: UI/SettingsPage.qml:29 UI/AboutPage.qml:34
+msgid "Settings"
+msgstr "Asetukset"
+
+#: UI/SettingsPage.qml:68
+msgid "Start app with torch on"
+msgstr "Käynnistä taskulamppu sovelluksen käynnistyessä"
+
+#: UI/WarningComponent.qml:33
+msgid "Warning!"
+msgstr "Varoitus!"
+
+#: UI/WarningComponent.qml:39
+msgid ""
+"Using this option might couse Camera and other aplications <b>NOT</b> to "
+"work as expected or at all!<br><br><b>You are using this on your own "
+"risk!</b>"
+msgstr ""
+
+#: UI/WarningComponent.qml:58
+msgid "<b>OK</b>"
+msgstr "<b>OK</b>"
+
+#: UI/WarningComponent.qml:65
+msgid "<b>No thanks!</b>"
+msgstr "<b>Ei kiitos!</b>"
+
+#: UI/DonatePopoverComponent.qml:33
+msgid "Hi Dude!"
+msgstr "Hei sinä!"
+
+#: UI/DonatePopoverComponent.qml:45
+msgid "I hope you enjoy my app and it works for you, so why not"
+msgstr "Toivottavasti pidät sovelluksestani, joten"
+
+#: UI/DonatePopoverComponent.qml:55
+msgid "Rate this app!"
+msgstr "Arvostele tämä sovellus!"
+
+#: UI/DonatePopoverComponent.qml:70
+msgid ""
+"I'm always looking for new ways to improve this app, so if you have "
+"interesting ideas and want to share them with me just click below."
+msgstr ""
+"Toivon aina saavani parannusehdotuksia sovelluksen kehittämiseksi. Jos "
+"sinulla on ideoita, napauta alta"
+
+#: UI/DonatePopoverComponent.qml:80
+msgid "Contact me!"
+msgstr "Ota yhteyttä!"
+
+#: UI/DonatePopoverComponent.qml:93
+msgid ""
+"If you think this app deserved your dontation just click on button bellow."
+msgstr ""
+
+#: UI/DonatePopoverComponent.qml:104
+msgid "Donate!"
+msgstr "Lahjoita!"
+
+#: UI/DonatePopoverComponent.qml:121
+msgid "<b>Sorry to hear</b>"
+msgstr ""
+
+#: UI/DonatePopoverComponent.qml:121
+msgid "Ask me later"
+msgstr "Kysy myöhemmin"
+
+#: UI/DonatePopoverComponent.qml:147
+msgid "Don't show this message again."
+msgstr "Älä näytä tätä viestiä uudelleen."
+
+#: UI/UpdatePopupComponent.qml:35
+msgid "What's new?"
+msgstr "Mitä uutta?"
+
+#: UI/UpdatePopupComponent.qml:114
+msgid "Go to app"
+msgstr "Siirry sovellukseen"
+
+#: UI/AboutPage.qml:40
+msgid "About"
+msgstr "Tietoja"
+
+#: UI/AboutPage.qml:41
+msgid "Credits"
+msgstr "Tekijät"
+
+#: UI/AboutPage.qml:42
+msgid "F.A.Q"
+msgstr "UKK"
+
+#: UI/AboutPage.qml:56
+msgid "Author"
+msgstr "Tekijä"
+
+#: UI/AboutPage.qml:57
+msgid "Developers"
+msgstr "Kehittäjät"
+
+#: UI/AboutPage.qml:58
+msgid "Designer"
+msgstr "Suunnittelija"
+
+#: UI/AboutPage.qml:68
+msgid "What devices are supported?"
+msgstr "Mitkä laitteet ovat tuettuja?"
+
+#: UI/AboutPage.qml:68
+msgid ""
+"At the moment we support the following devices:<br> ✔BQ Aquaris e4.5<br> ✔BQ "
+"Aquaris 5<br> ✔Meizu MX4<br> ✔Nexus 4"
+msgstr ""
+"Tällä hetkellä tuetut laitteet:<br> ✔BQ Aquaris e4.5<br> ✔BQ Aquaris 5<br> "
+"✔Meizu MX4<br> ✔Nexus 4"
+
+#: UI/AboutPage.qml:69
+msgid "I blocked uTorch from using Camera.Service.<br>How do I fix it?"
+msgstr ""
+
+#: UI/AboutPage.qml:69
+msgid ""
+"Open System Settings <b>></b> Security and Privacy <b>></b> App Permissions "
+"<b>></b> Camera<br> and then make sure uTorch is <b>ticked</b> there."
+msgstr ""
+"Avaa Järjestelmän asetukset <b>></b> Turvallisuus ja yksityisyys <b>></b> "
+"Sovellusten oikeudet <b>></b> Kamera<br> ja varmista, että uTorch on "
+"<b>sallittu</b> täällä."
+
+#: UI/AboutPage.qml:69
+#, qt-format
+msgid "%1 Open System Settings %2"
+msgstr "%1 Avaa Järjestelmän asetukset %2"
+
+#: UI/AboutPage.qml:113
+msgid "Torch application for Ubuntu Touch"
+msgstr "Taskulamppusovellus Ubuntu Touchille"
+
+#: UI/AboutPage.qml:123
+msgid "Changelog"
+msgstr "Muutoshistoria"
+
+#: UI/AboutPage.qml:143
+msgid "Released under the terms of GNU GPL v3 or higher"
+msgstr "Julkaistu lisenssin GNU GPL v3 tai uudemman alaisena"
+
+#: UI/AboutPage.qml:153
+#, qt-format
+msgid "Source code available on %1"
+msgstr "Lähdekoodi saatavilla - %1"
+
+#: UI/AboutPage.qml:165
+#, qt-format
+msgid "Homepage: %1"
+msgstr "Verkkosivusto: %1"
+
+#: UI/AboutPage.qml:186
+#, qt-format
+msgid "Count: %1"
+msgstr "Kytkentöjen määrä: %1"
+
+#: UI/FirstRunPopupComponent.qml:34
+msgid "Important!"
+msgstr "Tärkeää!"
+
+#: UI/FirstRunPopupComponent.qml:42
+msgid "Please make sure that you <b>allow</b> uTorch to use Camera.Services!"
+msgstr ""
+"Varmista, että <b>sallit</b> uTorchin käyttää Camera.Services-palvelua!"
+
+#. TRANSLATORS: please make sure you inser html code in right places, thanks!
+#: UI/FirstRunPopupComponent.qml:50
+msgid ""
+"If by mistake you refuse uTorch to use Camera then to change it you have to "
+"go to:<br><br>System Settings <b>></b> Security and Privacy <b>></b> App "
+"Permissions <b>></b> Camera<br>and then make sure uTorch is <b>ticked</b> "
+"there."
+msgstr ""
+"Jos vahingossa estit kyseisen palvelun käytön, salli käyttö "
+"seuraavasti:<br><br>Järjestelmän asetukset <b>></b> Turvallisuus ja "
+"yksityisyys <b>></b> Sovellusten oikeudet <b>></b> Kamera<br>ja varmista, "
+"että uTorch on <b>sallittu</b> täällä."
+
+#. TRANSLATORS: Better to leave this OK
+#: UI/FirstRunPopupComponent.qml:63
+msgid "OK"
+msgstr "OK"

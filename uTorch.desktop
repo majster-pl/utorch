@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=uTorch
+Exec=qmlscene $@ main.qml
+Icon=uTorch.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+X-Ubuntu-Supported-Orientations=portrait
+X-Ubuntu-Splash-Show-Header=true
+X-Ubuntu-Splash-Color=#333333
